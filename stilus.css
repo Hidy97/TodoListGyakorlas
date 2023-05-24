@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(10, 10, 44);
+    color: rgb(117, 160, 240);
+    text-align: center;
+}
+
+main{
+    max-width: 80%;
+    margin: auto;
+}
